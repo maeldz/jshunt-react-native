@@ -11,5 +11,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Once installed on the device you can run with:
 
-# `npm start` / `yarn start`
+### `npm start` / `yarn start`
 
